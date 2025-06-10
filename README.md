@@ -1,7 +1,8 @@
 # Ejercicio N° 14
 ## Desarrollo de Software
 ### API Web
-
+### PUENTES, Facundo Sebastián - 58391 - 3k1
+### MOYA, Favio Tadeo - 56446 - 3k1
 ## Tareas
 Bifurcar (fork) el repositorio.
 
